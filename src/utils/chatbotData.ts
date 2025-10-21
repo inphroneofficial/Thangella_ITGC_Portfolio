@@ -32,7 +32,7 @@ export const chatbotResponses: { [key: string]: string } = {
 - Governance, Risk, and Compliance (GRC) principles
 - IT service management best practices`,
 
-  "experience, work, job, career, employment, role, professional": `I have **1.4 years** of specialized experience as an **IT Risk & Compliance Consultant** at Globestar Software Ltd.ech Pvt. Ltd. (April 2024 - Present).
+  "experience, work, job, career, employment, role, professional": `I have **1.4 years** of specialized experience as an **IT Risk & Compliance Consultant** at Globestar Software Ltd. (April 2024 - Present).
 
 **Key Professional Responsibilities:**
 
