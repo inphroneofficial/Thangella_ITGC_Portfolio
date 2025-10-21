@@ -87,12 +87,12 @@ const About = () => {
                 <div className="flex items-center gap-2">
                   <Mail className="h-4 w-4 text-primary" />
                   <a
-                    href="mailto:imgtk17@gmail.com"
+                    href="mailto:thangella17@gmail.com"
                     className={`hover:text-primary transition-colors flex-1 truncate ${
                       theme === "dark" ? "text-white/90" : "text-gray-700"
                     }`}
                   >
-                    imgtk17@gmail.com
+                    thangella17@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center gap-2">

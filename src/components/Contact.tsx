@@ -33,7 +33,7 @@ const Contact = () => {
     const body = encodeURIComponent(
       `Name: ${formData.name}\nEmail: ${formData.email}\n\n${formData.message}`
     );
-    const mailtoLink = `mailto:imgtk17@gmail.com?subject=${subject}&body=${body}`;
+    const mailtoLink = `mailto:thangella17@gmail.com?subject=${subject}&body=${body}`;
     
     // Open default mail client
     window.location.href = mailtoLink;
@@ -105,8 +105,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className={`text-sm ${theme === 'dark' ? 'text-white/60' : 'text-foreground/60'}`}>Email</h4>
-                    <a href="mailto:imgtk17@gmail.com" className={`text-lg font-medium hover:text-primary transition-colors ${theme === 'dark' ? 'text-white' : ''}`}>
-                      imgtk17@gmail.com
+                    <a href="mailto:thangella17@gmail.com" className={`text-lg font-medium hover:text-primary transition-colors ${theme === 'dark' ? 'text-white' : ''}`}>
+                      thangella17@gmail.com
                     </a>
                   </div>
                 </div>

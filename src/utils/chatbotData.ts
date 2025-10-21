@@ -90,7 +90,7 @@ The interdisciplinary nature of my education has been particularly valuable in u
 
   "contact, reach, email, phone, linkedin, connect, communication": `**Contact Information:**
 
-📧 **Email:** imgtk17@gmail.com
+📧 **Email:** thangella17@gmail.com
 📱 **Phone:** +91 8008133117
 📍 **Location:** Hyderabad, India
 💼 **LinkedIn:** https://www.linkedin.com/in/thangella-g
@@ -303,7 +303,7 @@ Compensation discussions are best handled directly based on specific role requir
 **Let's Connect:**
 For detailed compensation discussions, please feel free to reach out:
 
-📧 **Email:** imgtk17@gmail.com
+📧 **Email:** thangella17@gmail.com
 📱 **Phone:** +91 8008133117
 💼 **LinkedIn:** https://www.linkedin.com/in/thangella-g
 
