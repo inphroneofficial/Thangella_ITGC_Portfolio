@@ -87,7 +87,7 @@ const Footer = () => {
             </ul>
             <div className="mt-6 flex justify-center">
               <Button variant="outline" className="rounded-full px-6 py-2 border-primary/30 button-shine relative overflow-hidden group" asChild>
-                <a href="./Thangella_Gadidamalla_ITGC_IT_Audit_2025.pdf" download="./Thangella_Gadidamalla_ITGC_IT_Audit_2025.pdf">
+                <a href="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf" download="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf">
                   <Download className="h-4 w-4 mr-2" />
                   <span className="relative z-10 group-hover:text-primary transition-colors duration-300">Download Resume</span>
                 </a>

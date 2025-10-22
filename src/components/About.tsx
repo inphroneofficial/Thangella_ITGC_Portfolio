@@ -144,7 +144,7 @@ const About = () => {
                 className="w-full mt-5 bg-gradient-to-tr from-primary to-purple-600 shadow-xl py-3 px-3 font-medium rounded-full button-shine"
                 asChild
               >
-                <a href="./Thangella_Gadidamalla_ITGC_IT_Audit_2025.pdf" download="./Thangella_Gadidamalla_ITGC_IT_Audit_2025.pdf">
+                <a href="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf" download="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf">
                   <Download className="h-4 w-4 mr-2" />
                   Download Resume
                 </a>

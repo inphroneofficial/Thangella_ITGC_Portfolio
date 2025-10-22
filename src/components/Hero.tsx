@@ -106,7 +106,7 @@ const Hero = () => {
               </a>
             </Button>
             <Button variant="outline" className="rounded-full px-8 py-6 border-primary/30 button-shine relative overflow-hidden group" asChild>
-              <a href="/Thangella_Gadidamalla_ITGC_IT_Audit_2025.pdf" download="./Thangella_Gadidamalla_ITGC_IT_Audit_2025.pdf">
+              <a href="/Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf" download="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf">
                 <Download className="h-5 w-5 mr-2" />
                 <span className="relative z-10 group-hover:text-primary transition-colors duration-300">Download Resume</span>
                 <span className="absolute bottom-0 left-0 w-full h-0.5 bg-primary scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
