@@ -212,7 +212,7 @@ const AuditInfoPage = () => {
             <p className={`text-lg animate-fade-in max-w-2xl mx-auto ${
               theme === 'dark' ? 'text-gray-300' : 'text-gray-600'
             }`}>
-              Comprehensive expertise in IT Risk & Compliance with 1.4 years of hands-on experience in 
+              Comprehensive expertise in IT Risk & Compliance with 1.8+ years of hands-on experience in 
               SOX 404 compliance, ITGC testing, and enterprise audit frameworks.
             </p>
           </div>

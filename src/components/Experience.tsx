@@ -71,7 +71,7 @@ const Experience = () => {
                 : "text-gray-700"
             }`}
           >
-            1.4+ years of hands-on IT Risk & Compliance work.
+            1.8++ years of hands-on IT Risk & Compliance work.
           </p>
         </div>
 
@@ -103,7 +103,7 @@ const Experience = () => {
                   ))}
                 </div>
                 <div className="mt-6 text-right">
-                  <a href="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf" download="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf">
+                  <a href="./Gadidamalla_Thangella_ITGC_IT_Audit_2026.pdf" download="./Gadidamalla_Thangella_ITGC_IT_Audit_2026.pdf">
                     <Button className="bg-primary text-white rounded-full py-2 px-5 button-shine flex items-center gap-2 shadow hover:bg-primary/90">
                       <Download className="h-4 w-4" />
                       Download Resume

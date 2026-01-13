@@ -32,7 +32,7 @@ export const chatbotResponses: { [key: string]: string } = {
 - Governance, Risk, and Compliance (GRC) principles
 - IT service management best practices`,
 
-  "experience, work, job, career, employment, role, professional": `I have **1.6 years** of specialized experience as an **IT Risk & Compliance Consultant** at Globestar Software Ltd. (April 2024 - Present).
+  "experience, work, job, career, employment, role, professional": `I have **1.8+ years** of specialized experience as an **IT Risk & Compliance Consultant** at Globestar Software Ltd. (April 2024 - Present).
 
 **Key Professional Responsibilities:**
 
@@ -91,10 +91,10 @@ The interdisciplinary nature of my education has been particularly valuable in u
   "contact, reach, email, phone, linkedin, connect, communication": `**Contact Information:**
 
 📧 **Email:** thangella17@gmail.com
-📱 **Phone:** +91 8008133117
+📱 **Phone:** +91 7207840501
 📍 **Location:** Hyderabad, India
 💼 **LinkedIn:** https://www.linkedin.com/in/thangella-g
-📱 **WhatsApp:** https://wa.me/918008133117
+📱 **WhatsApp:** https://wa.me/917207840501
 
 **Best Ways to Reach Me:**
 - Email for formal inquiries and detailed discussions
@@ -220,7 +220,7 @@ These tools enable me to effectively manage end-to-end audit processes, collabor
 
 This linguistic diversity is particularly valuable in IT audit and compliance roles where clear communication with stakeholders from different regions and backgrounds is essential for successful audit execution and remediation efforts.`,
 
-  "about, who, introduction, tell me about, yourself": `Hello! I'm **Thangella Gadidamalla**, a dedicated **IT Risk & Compliance Specialist** with 1.6 years of hands-on expertise in enterprise audit and compliance.
+  "about, who, introduction, tell me about, yourself": `Hello! I'm **Thangella Gadidamalla**, a dedicated **IT Risk & Compliance Specialist** with 1.8+ years of hands-on expertise in enterprise audit and compliance.
 
 🎯 **Professional Identity:**
 I specialize in IT General Controls (ITGC), SOX 404 compliance, and comprehensive IT Risk Assessments. My core strength lies in partnering with engineering, operations, and product teams to strengthen access controls, ensure regulatory compliance, and implement robust risk mitigation strategies.
@@ -251,7 +251,7 @@ I'm always excited to discuss how my expertise can contribute to organizational 
   "age, old, born, birthday": `I'm **22 years old**, born on **May 17, 2002**.
 
 🌟 **Professional Perspective:**
-Despite my young age, I've already established myself in the specialized field of IT Risk & Compliance with 1.6 years of hands-on experience. This early career focus has allowed me to:
+Despite my young age, I've already established myself in the specialized field of IT Risk & Compliance with 1.8+ years of hands-on experience. This early career focus has allowed me to:
 
 - Develop deep expertise in SOX 404 compliance and ITGC testing
 - Build strong relationships with engineering, operations, and product teams
@@ -304,11 +304,11 @@ Compensation discussions are best handled directly based on specific role requir
 For detailed compensation discussions, please feel free to reach out:
 
 📧 **Email:** thangella17@gmail.com
-📱 **Phone:** +91 8008133117
+📱 **Phone:** +91 7207840501
 💼 **LinkedIn:** https://www.linkedin.com/in/thangella-g
 
 **What I Bring to the Table:**
-- 1.6 years of specialized IT audit and compliance experience
+- 1.8+ years of specialized IT audit and compliance experience
 - Proven track record in SOX 404 and ITGC testing
 - Strong technical skills with ServiceNow GRC, JIRA, and SQL
 - Experience partnering with engineering, operations, and product teams

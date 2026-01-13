@@ -117,8 +117,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className={`text-sm ${theme === 'dark' ? 'text-white/60' : 'text-foreground/60'}`}>Phone</h4>
-                    <a href="tel:8008133117" className={`text-lg font-medium hover:text-primary transition-colors ${theme === 'dark' ? 'text-white' : ''}`}>
-                      8008133117
+                    <a href="tel:7207840501" className={`text-lg font-medium hover:text-primary transition-colors ${theme === 'dark' ? 'text-white' : ''}`}>
+                      7207840501
                     </a>
                   </div>
                 </div>

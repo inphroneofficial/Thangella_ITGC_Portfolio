@@ -98,12 +98,12 @@ const About = () => {
                 <div className="flex items-center gap-2">
                   <Phone className="h-4 w-4 text-primary" />
                   <a
-                    href="tel:8008133117"
+                    href="tel:7207840501"
                     className={`hover:text-primary transition-colors flex-1 truncate ${
                       theme === "dark" ? "text-white/90" : "text-gray-700"
                     }`}
                   >
-                    8008133117
+                    7207840501
                   </a>
                 </div>
                 <div className="flex items-center gap-2">
@@ -121,7 +121,7 @@ const About = () => {
                   <Briefcase className="h-4 w-4 text-primary" />
                   <span className={theme === "dark" ? "text-white/90" : "text-gray-700"}>Experience</span>
                   <span className="ml-auto font-bold text-primary/90">
-                    1.4+ years
+                    1.8++ years
                   </span>
                 </div>
               </div>
@@ -144,7 +144,7 @@ const About = () => {
                 className="w-full mt-5 bg-gradient-to-tr from-primary to-purple-600 shadow-xl py-3 px-3 font-medium rounded-full button-shine"
                 asChild
               >
-                <a href="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf" download="./Gadidamalla_Thangella_ITGC_IT_Audit_2025.pdf">
+                <a href="./Gadidamalla_Thangella_ITGC_IT_Audit_2026.pdf" download="./Gadidamalla_Thangella_ITGC_IT_Audit_2026.pdf">
                   <Download className="h-4 w-4 mr-2" />
                   Download Resume
                 </a>
@@ -165,7 +165,7 @@ const About = () => {
                     : "text-gray-800 mb-4"
                 }
               >
-                IT Risk and Compliance professional with 1.6 years of hands-on experience in IT General Controls (ITGC), SOX 404 Compliance, and IT Risk Assessments. Proven track record of partnering with engineering, operations, and product teams to strengthen access controls, ensure process compliance, and support risk mitigation efforts.
+                IT Risk and Compliance professional with 1.8+ years of hands-on experience in IT General Controls (ITGC), SOX 404 Compliance, and IT Risk Assessments. Proven track record of partnering with engineering, operations, and product teams to strengthen access controls, ensure process compliance, and support risk mitigation efforts.
               </p>
               <p
                 className={
