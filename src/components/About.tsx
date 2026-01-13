@@ -121,7 +121,7 @@ const About = () => {
                   <Briefcase className="h-4 w-4 text-primary" />
                   <span className={theme === "dark" ? "text-white/90" : "text-gray-700"}>Experience</span>
                   <span className="ml-auto font-bold text-primary/90">
-                    1.8++ years
+                    1.8+ years
                   </span>
                 </div>
               </div>

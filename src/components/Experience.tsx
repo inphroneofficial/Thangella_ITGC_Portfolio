@@ -71,7 +71,7 @@ const Experience = () => {
                 : "text-gray-700"
             }`}
           >
-            1.8++ years of hands-on IT Risk & Compliance work.
+            1.8+ years of hands-on IT Risk & Compliance work.
           </p>
         </div>
 
