@@ -29,7 +29,7 @@ const About = () => {
     { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/gthangella/' },
     { name: 'Instagram', icon: Instagram, url: 'https://www.instagram.com/g_thangella_k?igsh=aWczdnVtaDR1N280' },
     { name: 'Twitter', icon: Twitter, url: 'https://x.com/i/flow/login?redirect_after_login=%2FGtk947' },
-    { name: 'WhatsApp', icon: MessageSquare, url: 'https://wa.me/8499090369' },
+    { name: 'WhatsApp', icon: MessageSquare, url: 'https://wa.me/7207840501' },
   ];
 
   return (

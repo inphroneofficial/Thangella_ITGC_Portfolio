@@ -37,7 +37,7 @@ const Footer = () => {
     { 
       name: 'WhatsApp', 
       icon: MessageSquare, 
-      url: 'https://wa.me/8499090369',
+      url: 'https://wa.me/7207840501',
       color: 'text-[#25D366] dark:text-[#25D366]'
     },
     { 
